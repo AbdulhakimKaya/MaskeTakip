@@ -59,7 +59,7 @@ Person person2 = new Person();
 person2.firstName = "ABDULHAKİM";
 person2.lastName = "KAYA";
 person2.dateOfBirthYear = 2002;
-person2.nationalIdentity = 25345636790;
+person2.nationalIdentity = 1;
 
 Person person3 = new Person();
 person3.firstName = "Engin";
