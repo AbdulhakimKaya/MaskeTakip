@@ -22,7 +22,7 @@ public class PersonManager : IApplicantService
 
         return client.TCKimlikNoDogrulaAsync(
                 new TCKimlikNoDogrulaRequest(
-                    new TCKimlikNoDogrulaRequestBody(person.nationalIdentity, person.firstName, person.lastName, person.dateOfBirthYear)))
+                    new TCKimlikNoDogrulaRequestBody(person.NationalIdentity, person.FirstName, person.LastName, person.DateOfBirthYear)))
             .Result.Body.TCKimlikNoDogrulaResult;
     }
 }

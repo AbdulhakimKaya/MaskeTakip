@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19973721d4145bd418a4836e8ee19437fc0560fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b26b14f0e707008bb0ddbe336c3302a31117b05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

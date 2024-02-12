@@ -2,8 +2,8 @@ namespace Entities.Concrete;
 
 public class Person
 {
-    public string firstName { get; set; }
-    public string lastName { get; set; }
-    public int dateOfBirthYear { get; set; }
-    public long nationalIdentity { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public int DateOfBirthYear { get; set; }
+    public long NationalIdentity { get; set; }
 }

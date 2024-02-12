@@ -56,13 +56,13 @@ Console.WriteLine(cities2[0]);
 Console.WriteLine(number2);
 
 Person person2 = new Person();
-person2.firstName = "ABDULHAKİM";
-person2.lastName = "KAYA";
-person2.dateOfBirthYear = 2002;
-person2.nationalIdentity = 1;
+person2.FirstName = "ABDULHAKİM";
+person2.LastName = "KAYA";
+person2.DateOfBirthYear = 2002;
+person2.NationalIdentity = 1;
 
 Person person3 = new Person();
-person3.firstName = "Engin";
+person3.FirstName = "Engin";
 
 
 foreach (string city in cities1)

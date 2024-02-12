@@ -17,11 +17,11 @@ public class PttManager : ISupplierService
     {
         if (_applicantService.CheckPerson(person))
         {
-            Console.WriteLine(person.firstName + " için maske verildi.");
+            Console.WriteLine(person.FirstName + " için maske verildi.");
         }
         else
         {
-            Console.WriteLine(person.firstName + " için maske verilemedi.");
+            Console.WriteLine(person.FirstName + " için maske verilemedi.");
         }
     }
 }
